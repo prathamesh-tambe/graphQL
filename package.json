@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-ess",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/prathamesh-tambe/graphQL#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
